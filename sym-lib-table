@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SY8113B)(type Legacy)(uri ${KIPRJMOD}/libs/SY8113B.lib)(options "")(descr ""))
+  (lib (name SE2515)(type Legacy)(uri ${KIPRJMOD}/libs/SE2515.lib)(options "")(descr ""))
+  (lib (name dc-usb-cablecomp-rescue)(type Legacy)(uri ${KIPRJMOD}/dc-usb-cablecomp-rescue.lib)(options "")(descr ""))
+)
