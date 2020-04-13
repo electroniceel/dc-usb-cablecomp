@@ -15,6 +15,17 @@ the devices to become unstable. Also charging phones is often slower
 due to the voltage drop. This adapter compensates for this by sligtly 
 increasing the voltage with increasing load.
 
+
+Case
+----
+
+I designed the adapter with heatshrink tube as case in mind. I used
+heatshrink tube with 24mm unshrunk diameter, hotglue inside and 4:1 shrink ratio.
+
+The label on my heatshrink tube says "PLDW 104-24/6", Reichelt order number "SDK 24,0 SW".
+
+I cut a strip of 42mm, which fits well after shrinking.
+
 License
 -------
 ![CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png)
