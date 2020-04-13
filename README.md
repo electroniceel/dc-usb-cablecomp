@@ -15,6 +15,12 @@ the devices to become unstable. Also charging phones is often slower
 due to the voltage drop. This adapter compensates for this by sligtly 
 increasing the voltage with increasing load.
 
+Schematics & Layout
+-------------------
+
+Schematics & Layout were done in KiCAD.
+
+[Schematics as PDF](https://github.com/electroniceel/dc-usb-cablecomp/raw/master/schematics.pdf)
 
 Case
 ----

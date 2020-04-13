@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "dc-usb-cablecomp"
+Date "2020-04-13"
 Rev ""
-Comp ""
-Comment1 ""
+Comp "Electronic Eel"
+Comment1 "https://git.io/JfeTQ"
 Comment2 ""
 Comment3 ""
-Comment4 ""
+Comment4 "License: CC-BY-4.0"
 $EndDescr
 $Comp
 L dc-usb-cablecomp-rescue:Barrel_Jack_Switch-Connector J1
